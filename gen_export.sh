@@ -1,0 +1,1 @@
+python3 'scripts/export_flutter_files.py' 'lib/src'
