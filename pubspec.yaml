@@ -11,6 +11,11 @@ dependencies:
   flutter:
     sdk: flutter
 
+  #Pure
+  basic_utils: ^5.7.0
+  equatable: ^2.0.5
+  rxdart: ^0.27.7
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
